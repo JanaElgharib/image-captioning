@@ -5,7 +5,7 @@ End-to-end image-captioning pipeline. A frozen **InceptionV3** encoder feeds a s
 > Architecture is the classic *Show and Tell* (Vinyals et al., 2015): image feature → projected embedding → initial `(h, c)` of the LSTM → token-by-token softmax decoder.
 
 ---
-Colab link: https://colab.research.google.com/drive/14XfP3RGb7l-Jny7KmmsANsBO1OaeeIHd?usp=sharing
+**Colab link**: https://colab.research.google.com/drive/14XfP3RGb7l-Jny7KmmsANsBO1OaeeIHd?usp=sharing
 ## Team members
 
 Yousef Magdy  
